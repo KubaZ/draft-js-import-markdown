@@ -12,7 +12,7 @@
     "test-src": "mocha src/__tests__/*.js src/**/__tests__/*.js"
   },
   "dependencies": {
-    "draft-js-import-element": "^0.1.13",
+    "draft-js-import-element": "git+https://github.com/KubaZ/draft-js-import-element.git#feature/work-img-support",
     "remark": "^4.2.2",
     "remark-html": "^3.0.0"
   },
